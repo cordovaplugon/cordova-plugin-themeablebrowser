@@ -52,6 +52,8 @@
 
         <resource-file src="src/android/res/drawable-xhdpi/back.png" target="res/drawable-xhdpi/back.png"/>
         <resource-file src="src/android/res/drawable-xhdpi/back_pressed.png" target="res/drawable-xhdpi/back_pressed.png"/>
+        <resource-file src="src/android/res/drawable-xhdpi/menu.png" target="res/drawable-xhdpi/menu.png"/>
+        <resource-file src="src/android/res/drawable-xhdpi/menu_pressed.png" target="res/drawable-xhdpi/menu_pressed.png"/>
         <resource-file src="src/android/res/drawable-xhdpi/close.png" target="res/drawable-xhdpi/close.png"/>
         <resource-file src="src/android/res/drawable-xhdpi/close_pressed.png" target="res/drawable-xhdpi/close_pressed.png"/>
         <resource-file src="src/android/res/drawable-xhdpi/share.png" target="res/drawable-xhdpi/share.png"/>
@@ -62,6 +64,7 @@
         <resource-file src="src/android/res/drawable-xhdpi/share_qq_friends.png" target="res/drawable-xhdpi/share_qq_friends.png"/>
         <resource-file src="src/android/res/drawable-xhdpi/share_qq_qzone.png" target="res/drawable-xhdpi/share_qq_qzone.png"/>
         <resource-file src="src/android/res/drawable-xhdpi/share_more.png" target="res/drawable-xhdpi/share_more.png"/>
+        <resource-file src="src/android/res/drawable-xhdpi/link.png" target="res/drawable-xhdpi/link.png"/>
     </platform>
 
     <!-- ios -->
@@ -81,6 +84,8 @@
         <source-file src="src/ios/CustomActionSheet.m" />
         <resource-file src="src/ios/Resources/back@2x.png" />
         <resource-file src="src/ios/Resources/back_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/menu@2x.png" />
+        <resource-file src="src/ios/Resources/menu_pressed@2x.png" />
         <resource-file src="src/ios/Resources/share@2x.png" />
         <resource-file src="src/ios/Resources/share_pressed@2x.png" />
         <resource-file src="src/ios/Resources/share_more.png" />
@@ -88,6 +93,7 @@
         <resource-file src="src/ios/Resources/share_qq_qzone.png" />
         <resource-file src="src/ios/Resources/share_weixin_friends.png" />
         <resource-file src="src/ios/Resources/share_weixin_timeline.png" />
+        <resource-file src="src/ios/Resources/link.png" />
 
         <framework src="CoreGraphics.framework" />
     </platform>
